@@ -10,9 +10,9 @@ version means every update will make version of it. thats work of SCM.
 2)centralised version  control system
   (cvcs) before git it used.
   (in that coder will commit(save) their code to repository in cvsc, 
-     -in central repository coders can access and view other coders code and they know what work further on same code .
+     -in central repository coders can access and view other developer code and they know what work further on same code .
        
-    to collect code from repository by the coder term is known as (update)
+    to collect code from repository by the developer term is known as (update)
 
 3)distributed version control system ->git,mereurial.
   for this git is popular.
@@ -76,10 +76,10 @@ Difference between CVCS and DVCS
   2)staging area       add -> commit(save)or snapshot(for future)-> commit id(its unique)it used for retrive the old code by adding tag so its easy to find.
   3) local repo.      we will push our code to github.
 
-another coder acessing for updating cod 
+another developer acessing for updating cod 
  git hub  pull ->then he did changes and he add -> commit->push back to github
 
-back to 1 st coder he will pull from github -> changes add->commit-> push back to git hub updated code.
+back to 1 st developer he will pull from github -> changes add->commit-> push back to git hub updated code.
 SNAPSHOT -> Is a incrimental snapshot (it will save only change lines of code) because it will reduce storage .
 
 ->REPOSITORY
